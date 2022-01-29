@@ -567,7 +567,7 @@ td, th {
 }
 
 .text-white {
-  color: #fff;
+  color: #fff !important;
 }
 
 .text-black {
@@ -2233,7 +2233,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .myself-wrap .desc p {
-  margin-top: 15px;
+  margin-top: 10px;
   margin-bottom: 5px;
 }
 
@@ -2245,7 +2245,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid transparent;
   color: #fff;
   padding: 10px 70px;
-  display: inline;
+  display: inline-block;
   border-radius: 25px;
   font-weight: 400;
 }
