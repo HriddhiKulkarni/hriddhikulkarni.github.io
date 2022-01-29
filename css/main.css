@@ -1932,7 +1932,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-gap {
-  padding: 120px 0;
+  padding: 80px 0;
 }
 
 .section-title {
@@ -2060,7 +2060,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sticky-wrapper {
-  height: 48px !important;
+  height: 52px !important;
 }
 
 .dropdown-item {
@@ -2223,16 +2223,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .myself-wrap {
-  background-color: #fff;
+  /*background-color: #fff;*/
   display: inline-block;
 }
 
 .myself-wrap .desc {
-  padding: 35px;
+  /*padding: 12px;*/
   text-align: center;
 }
 
 .myself-wrap .desc p {
+  margin-top: 15px;
   margin-bottom: 5px;
 }
 
@@ -2243,8 +2244,8 @@ h1, h2, h3, h4, h5, h6 {
 .myself-wrap .desc .talk-btn {
   border: 1px solid transparent;
   color: #fff;
-  padding: 12px 70px;
-  display: inline-block;
+  padding: 10px 70px;
+  display: inline;
   border-radius: 25px;
   font-weight: 400;
 }
